@@ -1,0 +1,11 @@
+.idea
+application/config/database.php
+assets/css/main.css
+node_modules
+.htaccess
+application/logs
+public
+system
+static
+kcfinder
+ckeditor

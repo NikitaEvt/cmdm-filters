@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Core Rhino 35';
+    src: url('CoreRhino35Light.eot');
+    src: local('Core Rhino 35 Light'), local('CoreRhino35Light'),
+        url('CoreRhino35Light.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino35Light.woff2') format('woff2'),
+        url('CoreRhino35Light.woff') format('woff'),
+        url('CoreRhino35Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 25';
+    src: url('CoreRhino25Thin-Italic.eot');
+    src: local('Core Rhino 25 Thin Italic'), local('CoreRhino25Thin-Italic'),
+        url('CoreRhino25Thin-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino25Thin-Italic.woff2') format('woff2'),
+        url('CoreRhino25Thin-Italic.woff') format('woff'),
+        url('CoreRhino25Thin-Italic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Rhino 75';
+    src: url('CoreRhino75Heavy.eot');
+    src: local('Core Rhino 75 Heavy'), local('CoreRhino75Heavy'),
+        url('CoreRhino75Heavy.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino75Heavy.woff2') format('woff2'),
+        url('CoreRhino75Heavy.woff') format('woff'),
+        url('CoreRhino75Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 85';
+    src: url('CoreRhino85Black-Italic.eot');
+    src: local('Core Rhino 85 Black Italic'), local('CoreRhino85Black-Italic'),
+        url('CoreRhino85Black-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino85Black-Italic.woff2') format('woff2'),
+        url('CoreRhino85Black-Italic.woff') format('woff'),
+        url('CoreRhino85Black-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Rhino 45';
+    src: url('CoreRhino45Regular-Italic.eot');
+    src: local('Core Rhino 45 Regular Italic'), local('CoreRhino45Regular-Italic'),
+        url('CoreRhino45Regular-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino45Regular-Italic.woff2') format('woff2'),
+        url('CoreRhino45Regular-Italic.woff') format('woff'),
+        url('CoreRhino45Regular-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Rhino 55';
+    src: url('CoreRhino55Medium-Italic.eot');
+    src: local('Core Rhino 55 Medium Italic'), local('CoreRhino55Medium-Italic'),
+        url('CoreRhino55Medium-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino55Medium-Italic.woff2') format('woff2'),
+        url('CoreRhino55Medium-Italic.woff') format('woff'),
+        url('CoreRhino55Medium-Italic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Rhino 85';
+    src: url('CoreRhino85Black.eot');
+    src: local('Core Rhino 85 Black'), local('CoreRhino85Black'),
+        url('CoreRhino85Black.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino85Black.woff2') format('woff2'),
+        url('CoreRhino85Black.woff') format('woff'),
+        url('CoreRhino85Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 45';
+    src: url('CoreRhino45Regular.eot');
+    src: local('Core Rhino 45 Regular'), local('CoreRhino45Regular'),
+        url('CoreRhino45Regular.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino45Regular.woff2') format('woff2'),
+        url('CoreRhino45Regular.woff') format('woff'),
+        url('CoreRhino45Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 55';
+    src: url('CoreRhino55Medium.eot');
+    src: local('Core Rhino 55 Medium'), local('CoreRhino55Medium'),
+        url('CoreRhino55Medium.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino55Medium.woff2') format('woff2'),
+        url('CoreRhino55Medium.woff') format('woff'),
+        url('CoreRhino55Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 25';
+    src: url('CoreRhino25Thin.eot');
+    src: local('Core Rhino 25 Thin'), local('CoreRhino25Thin'),
+        url('CoreRhino25Thin.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino25Thin.woff2') format('woff2'),
+        url('CoreRhino25Thin.woff') format('woff'),
+        url('CoreRhino25Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 35';
+    src: url('CoreRhino35Light-Italic.eot');
+    src: local('Core Rhino 35 Light Italic'), local('CoreRhino35Light-Italic'),
+        url('CoreRhino35Light-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino35Light-Italic.woff2') format('woff2'),
+        url('CoreRhino35Light-Italic.woff') format('woff'),
+        url('CoreRhino35Light-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Rhino 75';
+    src: url('CoreRhino75Heavy-Italic.eot');
+    src: local('Core Rhino 75 Heavy Italic'), local('CoreRhino75Heavy-Italic'),
+        url('CoreRhino75Heavy-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino75Heavy-Italic.woff2') format('woff2'),
+        url('CoreRhino75Heavy-Italic.woff') format('woff'),
+        url('CoreRhino75Heavy-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Core Rhino 65';
+    src: url('CoreRhino65Bold.eot');
+    src: local('Core Rhino 65 Bold'), local('CoreRhino65Bold'),
+        url('CoreRhino65Bold.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino65Bold.woff2') format('woff2'),
+        url('CoreRhino65Bold.woff') format('woff'),
+        url('CoreRhino65Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Rhino 65';
+    src: url('CoreRhino65Bold-Italic.eot');
+    src: local('Core Rhino 65 Bold Italic'), local('CoreRhino65Bold-Italic'),
+        url('CoreRhino65Bold-Italic.eot?#iefix') format('embedded-opentype'),
+        url('CoreRhino65Bold-Italic.woff2') format('woff2'),
+        url('CoreRhino65Bold-Italic.woff') format('woff'),
+        url('CoreRhino65Bold-Italic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+

@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: "Aeroport-L";
+        src: url('/public/fonts/Aeroport-Light.woff2') format('woff2'), url('/public/fonts/Aeroport-Light.woff') format('woff');
+    }
+    @font-face {
+        font-family: "Aeroport";
+        src: url('/public/fonts/Aeroport.woff2') format('woff2'), url('/public/fonts/Aeroport.woff') format('woff');
+    }
+    @font-face {
+        font-family: "Aeroport-B";
+        src: url('/public/fonts/Aeroport-Bold.woff2') format('woff2'), url('/public/fonts/Aeroport-Bold.woff') format('woff');
+    }
+}

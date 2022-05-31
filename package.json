@@ -1,0 +1,30 @@
+{
+  "name": "cdmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "scripts": {
+    "build": "postcss assets/css/lib/tailwindcss.css -o assets/css/main.css -w",
+    "prod": "NODE_ENV=production postcss assets/css/lib/tailwindcss.css -o assets/css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/d5300/cdmd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/d5300/cdmd/issues"
+  },
+  "homepage": "https://gitlab.com/d5300/cdmd#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "postcss-cli": "^9.1.0",
+    "tailwindcss": "^3.0.16"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  }
+}
